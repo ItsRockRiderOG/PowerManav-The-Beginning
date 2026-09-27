@@ -1,4 +1,4 @@
-# 2D-game-Universe-Development
+# PowerManav: The Beginning
 - This is a Software Game Development project.
 - I am using Unity Engine for this 2D Game called "PowerManav:The Beginning".
 - It is my first time with Unity Engine and C# (C-Sharp) coding, hence I am being guided by Unity Learn Tutorial.
